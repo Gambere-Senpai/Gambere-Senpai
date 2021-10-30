@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gambere-Senpai
 - 👀 I’m interested in Virtual Reality
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any C++ project and Discord Bot project
 - 📫 How to reach me calvincaleb1003@gmail.com
 
 <!---
